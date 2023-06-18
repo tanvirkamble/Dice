@@ -36,39 +36,6 @@
 
 
 
-// --------------------------------------------- didnt work --------------------------------------------------------
-  
-//   function diceimg()
-//    {
-//     var randomvariable1 = [];
-//     randomvariable1.push('/images/dice1.png');
-//     randomvariable1.push('/images/dice2.png');
-//     randomvariable1.push('/images/dice3.png');
-//     randomvariable1.push('/images/dice4.png');
-//     randomvariable1.push('/images/dice5.png');
-//     randomvariable1.push('/images/dice6.png');
-//     var randomimg = diceimg[Math.floor(Math.random()*randomvariable1.length)];
-//     return randomimg;
-//   }
-//   document.querySelector(".dice .img2").setAttribute("src",diceimg())
-// -----------------------------------------------------------------------------------------------------------------
-    // let mydice1 = new Image;
-    // mydice1.src = '/images/dice1.png';
-    // randomvariable1.push(mydice1);
-// -----------------------------------------------------------------------------------------------------------------
-    // {Image.src :"dice1.png"},{Image.src:"dice2.png"},{Image:"dice3.png"},{Image:"dice4.png"},{Image:"dice5.png"},{Image:"dice6.png"}
-// -----------------------------------------------------------------------------------------------------------------
-    // document.querySelector(".dice .img2").setAttribute("src","diceimg()")
-// -----------------------------------------------------------------------------------------------------------------
-// function DiceImg()
-// {
-//     var Dice = [];
-//     Dice[0] = new Image1;
-//     Image.src = "dice1.png";
+
 
     
-//     var randomimg =  Math.floor(Math.random()*Dice.length);
-//     return randomimg;
-// }
-// DiceImg.push();
-// -----------------------------------------------------------------------------------------------------------------
